@@ -58,11 +58,3 @@ The project provides the following API endpoints:
 ## Error Handling
 
 The project includes robust error handling to ensure that errors during data retrieval, analysis, or searching are gracefully handled. Appropriate error messages will be returned to clients.
-
-## Contributing
-
-Contributions to this project are welcome! If you have any improvements, bug fixes, or new features to propose, please open an issue or submit a pull request.
-
-**Note**
-
-This note makes it clear to readers that the project's current focus is on the API, and a front-end will be added in the future.
